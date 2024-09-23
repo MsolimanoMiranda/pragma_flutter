@@ -34,7 +34,4 @@ Flutter instalado y un emulador de ios o android.
     #image
     cached_network_image: ^3.4.1
 
-
-[![Alt text](https://youtu.be/YPOUJ1TVy54)
-
-![Video de yotube.](https://youtu.be/YPOUJ1TVy54)
+Link de demo youtube. [click here](https://youtu.be/YPOUJ1TVy54)
