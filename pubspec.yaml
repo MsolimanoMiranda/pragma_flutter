@@ -1,0 +1,46 @@
+name: challenge_pragma_msolimano
+description: "Project for challenge MSolimano."
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.0-138.0.dev <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.6
+  #http service
+  http: ^1.2.2
+
+  #bloc and inyection
+  flutter_bloc: ^8.1.5
+  rxdart: ^0.27.7
+  get_it: ^7.7.0
+  injectable: ^2.4.1
+  equatable: ^2.0.5
+
+  #splashlottie
+  lottie: ^3.1.2
+
+  #image
+  cached_network_image: ^3.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  injectable_generator: ^2.6.1
+  build_runner: ^2.4.9
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/img/
